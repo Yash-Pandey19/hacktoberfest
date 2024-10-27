@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: Yash
+ - Place: Dehradun , India
+ - Bio: Software engineer. Graduated from UPES.
+ - GitHub: https://github.com/Yash-Pandey19
